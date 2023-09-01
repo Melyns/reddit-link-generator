@@ -8,14 +8,12 @@ reddit-link-generator.exe N
 Where N represents the number of links you want to generate.
 
 # Modes:
-Currently the program has four modes which can be called with a flag `-m` followed by mode number.
+The script has four modes which can be called with a flag `-m` followed by mode number. By default, mode 1 is selected if the user doesn't explicitly use the `-m` flag.
 
 - Mode 1: string with lower case charachters only. `-m1`
-- Mode 2: string with one number at the beggining and rest is lower case charachters. `-m2`
-- Mode 3: string with 10 or 11 at the beggining and rest is lower case charachters. `-m3`
+- Mode 2: string with one number at the beggining, and rest is lower case charachters. `-m2`
+- Mode 3: string with 10 or 11 at the beggining, and rest is lower case charachters. `-m3`
 - Mode 4: string with numbers only. `-m4`
-
-By default, mode 1 is selected if the user doesn't explicitly use the `-m` flag.
 
 # Outputs:
 
