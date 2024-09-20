@@ -1,5 +1,5 @@
 # reddit-link-generator
-A simple program that generates random reddit short URLs. (Yes most of them redirect to a real post.)
+Generate random reddit short URLs. (Yes most of them redirect to a real post.)
 
 # Usage:
 ```
